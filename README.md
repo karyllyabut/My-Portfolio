@@ -34,7 +34,7 @@ __Test documentation__
   * can create test cases and checklists and know how and in which situations to use them effectively
   * able to prepare comprehensive bug reports and provide detailed session reports
 
-__Larabel__
+__Laravel__
   * doing content population in back end
 
 __SQL databases__
