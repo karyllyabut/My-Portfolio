@@ -51,10 +51,11 @@ __Jira__
   * able to create projects and track their progress
 
 __Wordpress__
-  * doing content population and edit 
+  * doing content population and edit
 
-__Trello and Notion__
-  * know how to use Kanban boards and track project progress
+__Clickup__
+ * to check issue tracker
+ * report issues found
 
 
 ## Courses
