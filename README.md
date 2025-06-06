@@ -3,6 +3,7 @@
 - [CV](#cv)
 - [Skills](#skills)
 - [Tools](#tools)
+- [Example of my work](#example-of-my-work)
 - [Courses](#courses)
 
 
@@ -56,6 +57,11 @@ __Wordpress__
 __Clickup__
  * to check issue tracker
  * report issues found
+
+## Example of my work
+ * [HOI (https://hoi.com.ph/)] Web & Web App
+ * [PARLON (https://www.parlon.ph/)] - Web & App
+ * [GENPOP (https://generalpopulation.com/)] - Web & App
 
 
 ## Courses
