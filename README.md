@@ -59,9 +59,9 @@ __Clickup__
  * report issues found
 
 ## Example of my work
- * [HOI](https://hoi.com.ph/). Web & Web App
- * [PARLON](https://www.parlon.ph/). - Web & App
- * [GENPOP](https://generalpopulation.com/). - Web & App
+ * [HOI](https://hoi.com.ph/) Web & Web App
+ * [PARLON](https://www.parlon.ph/) - Web & App
+ * [GENPOP](https://generalpopulation.com/) - Web & App
 
 
 ## Courses
