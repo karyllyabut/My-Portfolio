@@ -12,7 +12,7 @@
 
 ## About me
 
-I graduated with a degree in Information Systems last year and am passionate about quality assurance and software testing. I enjoy exploring various testing methodologies and am committed to expanding my expertise by learning the latest testing techniques. 
+I graduated with a degree in Information Systems and am passionate about quality assurance and software testing. I enjoy exploring various testing methodologies and am committed to expanding my expertise by learning the latest testing techniques. 
 
 My focus is on enhancing my analytical skills to identify issues early and contribute to developing reliable, high-quality software products. I’m driven by a desire to improve user experiences and ensure product stability, making me eager to contribute to projects where quality and precision are paramount.
 
@@ -43,6 +43,9 @@ __SQL databases__
   * familiar with the use of aliases and wildcards
   * know the difference between joins and unions and can use them in queries
 
+__Wordpress__
+  * doing content population and edit
+
 
 ## Tools
 
@@ -51,8 +54,6 @@ __Jira__
   * know how to create bug reports
   * able to create projects and track their progress
 
-__Wordpress__
-  * doing content population and edit
 
 __Clickup__
  * to check issue tracker
