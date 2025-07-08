@@ -20,7 +20,7 @@ I’m eager to deepen my knowledge in automation testing to broaden my expertise
 
 
 ## CV
-You can download my CV as [a PDF from my Google Drive](https://drive.google.com/file/d/1wbXhuXRpKe5c3ATRrgU1mk4lRqfB5MF-/view?usp=sharing).
+You can download my CV as [a PDF from my Google Drive](https://drive.google.com/file/d/1wejHHCgXlqx9iwpdGxDZENRjU4o0iR3Q/view?usp=sharing).
 
 ## Skills
 
